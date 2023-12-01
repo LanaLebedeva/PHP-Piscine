@@ -28,3 +28,5 @@ the lower left and top right corners.
 - The information seen in the table must be in a modifiable text, for example during
 your defense.
 
+![screenshot - Mendeleev.html](screenshot/screenshot_mendeleev.png)
+
